@@ -14,16 +14,6 @@
 - 📫 Reach me at **ashmitasr31@gmail.com**
 - ⚡ Fun fact **I enjoy solving real-world problems with code**
 
----
-
-# 🌐 Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/as-310306az"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-</p>
-
----
-
 # 🛠 Languages and Tools
 
 <p align="left">
@@ -44,4 +34,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita-Srivastav&layout=compact&theme=tokyonight"/>
 </p>
 
+---
+
+# 🌐 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/as-310306az"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+</p>
+
+---
 
