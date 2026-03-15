@@ -27,7 +27,7 @@
 # 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nextjs,nodejs,express,mongodb,postgresql,mysql,git,linux,computer vision,tensorflow,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nextjs,nodejs,express,mongodb,postgresql,mysql,git,linux,tensorflow,opencv,vscode,figma" />
 </p>
 
 # 🔥 GitHub Streak
