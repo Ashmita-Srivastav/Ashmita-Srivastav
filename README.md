@@ -10,7 +10,7 @@
 ## 🌱 Currently
 
 - 🌱 Currently learning **Cloud & Backend Systems**
-- 💬 Ask me about **Next.js, Machine Learning, Web Development**
+- 💬 Ask me about **Machine Learning, Web Development**
 - 📫 Reach me at **ashmitasr31@gmail.com**
 - ⚡ Fun fact **I enjoy solving real-world problems with code**
 
